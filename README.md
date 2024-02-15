@@ -54,11 +54,17 @@ To get the information the user needs to enter for help, run:
 as follows:
 
 >python Allocator.py -h
+>
 usage: it's usage tip.
+
 optional arguments:
+
   -h, --help            show this help message and exit
+  
   --input_path          input fasta.
+  
   --output_path         output path.
+  
   --device              cpu or cuda
 
 ## Examples:
