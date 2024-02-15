@@ -21,7 +21,7 @@ The asymmetrical distribution of expressed mRNAs tightly controls the precise sy
 
 ## Installation of RNAfold(Linux)
 
-'''
+
 wget -q https://www.tbi.univie.ac.at/RNA/download/sourcecode/2_5_x/ViennaRNA-2.5.0.tar.gz
 
 tar xfz ViennaRNA-2.5.0.tar.gz
@@ -33,16 +33,16 @@ cd /content/ViennaRNA-2.5.0
 make
 
 sudo make install
-'''
+
 
 ## Installation of LinearFold(Linux)
-'''
+
 git clone https://github.com/LinearFold/LinearFold.git
 
 cd LinearFold
 
 make
-'''
+
 
 ## Usage
 
